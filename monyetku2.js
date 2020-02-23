@@ -67,7 +67,7 @@ function tooglespeed() {
   else {
 	disp=0;
 	document.getElementById('speednav').style.display='none';
-	document.getElementById('speedtoogle').innerHTML='<img src="https://1.bp.blogspot.com/-m2ytOUkrXF0/W2F0sgIiaBI/AAAAAAAAA4o/zSJQDYZjrAkkiLqqhjdADN2V_GKuFA6YQCLcBGAs/s1600/telascrl.png" style="border-right:1px solid #AAA;"/>';	
+	document.getElementById('speedtoogle').innerHTML='<img src="https://1.bp.blogspot.com/-OdinohTUZNM/XlJfPNcVcpI/AAAAAAAAAJI/Qd2hq143Cds60ur8HZJJY9yqvj5uKcbHQCLcBGAsYHQ/s1600/chordmrsolusi.png" style="border-right:1px solid #AAA;"/>';	
 	document.getElementById('speedtoogle');
   }
 }
