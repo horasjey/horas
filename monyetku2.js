@@ -1,4 +1,4 @@
-<script type="text/javascript">var speed=1;
+var speed=1;
 	var disp=0;
 	var handle;
 	var currentspeed=0;
@@ -78,4 +78,4 @@ function calcHeight()
       document.body.scrollHeight;
   document.getElementById('chord_frame').height=
       the_height;
-}</script>
+}
